@@ -1,0 +1,47 @@
+html 교재 
+https://www.w3schools.com/html/
+
+수업 소스 공유
+github.com/songpawoman
+
+수업 내용 드라이브
+https://drive.google.com/drive/folders/1J-p7xh1BN1SfCVuOnBADExiQIwgTRGdB
+
+
+2010년대 이전만 하더라도 웹 사이트는 테이블로 만들 었다
+
+
+
+레이아웃을 배치할 때는 <div></div>를 쓴다.
+중요***
+
+
+모든 tag 요소는 다 박스 취급
+
+
+
+모든 태그는 display 속성이 지정되어 있다.
+1. block 형 (div, p 태그는 block 형)
+2. inline 형
+
+inline-block
+공존하면서 block 의 특징을 갖는다.
+
+
+
+개발 잘하는 방법
+- 여러번 쳐야 한다.....
+- 코드를 이해하고 쳐야 한다.... 여러번 > 언제까지? > 안보고 칠 수 있을 때까지
+
+1. 이해
+2. 계속 쳐라
+
+
+
+git 설정
+git_init
+확인) git status
+git add . : stage 에 올림
+git log
+commit
+git push -u origin master
