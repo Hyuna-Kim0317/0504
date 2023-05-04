@@ -45,3 +45,7 @@ git add . : stage 에 올림
 git log
 commit
 git push -u origin master
+
+민진호 강사님
+zino1187@naver.com
+010-2867-9055
